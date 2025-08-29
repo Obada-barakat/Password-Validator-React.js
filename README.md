@@ -17,7 +17,7 @@ Checks for:
 - CSS for styling
 
 #Live Demo 
-view Demo []
+view Demo [https://password-validator-react-js-chi.vercel.app/]
 
 #License
 This project is open-source and available under the MIT License.
